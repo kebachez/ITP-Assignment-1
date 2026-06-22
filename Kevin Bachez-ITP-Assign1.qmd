@@ -1,0 +1,63 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Kevin Bachez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Introduction
+
+This report is a summary of my compketion of the Shopify learing Activities and my exploration of the Shopify Admin area. The purpose of this assignment is to get a better understanding of how Shopify works and how it can be used for business such as the Cal Poly Pomona Farm Store.
+
+# Shopify Learning Completion
+
+I completed the following assigned Shopify learning courses: 
+
+- Introduction to Shopify 
+- Navigating through Shopify Admin 
+- Developing a Shopify 
+- Shopify Admin Guided Tour
+
+The screesnhots below provides a visual representation of the courses I completed.
+![Shopify Learning Screenshot](Shopify%20Learning.png)
+
+# Shopify Admin Exploration
+I created and accessed a Shopify Admin account to explore the different features and functionalities available.
+
+The screenshot below shows my Shopify Admin dashboard.
+![Shopify Admin Screenshot](Shopify%20Admin.png)
+
+# Important Shopify Features
+
+## Product Templates
+Product templates control how different groups of products are displayed. For example, you can create one template of clothing products, anotehr one for tech.electronics, and anotehr for feautured produycts, each of them with different layouts.
+
+## Shipping Origins
+Shipping Origins determine the location from which the products are shipped. Shopify uses this information to calculate shipping rates and delivery estimates.
+
+## Inventory Management
+The Inventory Management feature allows you to track and manage your product inventory. You can set up inventory levels, receive notifications when stock is low, and manage stock across multiple locations.
+
+## Payment Providers
+Shopify gives merchants the option to use Shopify Payments or choose from many supported third-party providers, depending on their business needs and locaiton.
+
+## Custom Domains
+Shopify allows merchants to use custom domains for their online stores, which can help with branding and search engine optimization.
+
+## Shipping Profiles
+Shipping profiles allow merchants to set different shipping rates and rules for different products or locations. This can help businesses manage their shipping costs and provide better service to customers.
+
+## Sidekick for direct navigation
+Sidekick can help merchants quickly find and navigate to settings within Shopify admin, which makes it the fastest option when having trouble finding a specific setting or feature.
+
+# Cal Poly Pomona Farm Store Application
+The Cal Poly Pomona Farm Store can benefit from using Shopify as its e-commerce platform. With Shopify, the Farm Store can easily set up an online store to sell its products, manage inventory, and process payments. The customizable product templates can help showcase the unique offerings of the Farm Store, while the inventory management features can ensure that stock levels are maintained.
